@@ -1,0 +1,14 @@
+.final{
+  background-color: #c8ab7f;
+border-radius: 8px;
+border-color: transparent;
+width: 50px;
+height: 30px;
+}
+.bg{
+    width: 102%;
+    height: 50%;
+    margin-top: -20px;
+    margin-left: -10px;
+  
+}
