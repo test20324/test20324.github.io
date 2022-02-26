@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bakery</title>
+  <link rel="stylesheet" href="cdnjs.cloudflare.com.css">
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+  <link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="inner-width">
+      <a href="#" class="logo">Soultreats</a>
+      <a href="#" class="logos">Food that warms the soul</a>
+      <div class="navbar-menu">
+        <a href="D:\try\yes.html">home</a>
+        <a href="#menu">menu</a>
+       <button type="button" class="button1"> <a href="#order">order</a></button>
+        <a href="#contact">contact</a>
+      </div>
+    </div>
+  </nav>
+ <nav>
+  <section>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </head>
+ 
+  
+    
+    <div style='padding:4px'> <div class="carousel" data-interval="200">
+        
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+      </ol>
+  
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="-2147483648_-210681 (2).jpg" alt="Los Angeles" style="width:100;" height="50rem"
+          > <div class="carousel-caption" id-"text1">
+
+            <h3>We offer everything from</h3> <h1>cookies and cupcakes<br>to special requests</h1>
+            
+            <p>Scroll down</p> </div>
+        </div>
+  
+        <div class="item">
+          <img class="qr" src="qr.jpg" alt="Chicago" style="width:10;" height="10px"/>
+   <img class="logi" src="Soul Treats Logo clear fin (2).png" alt="Chicago" style="width:100;" height="50rem"
+          > <div class="carousel-caption" id-"text1">
+
+            <h3>Follow Us</h3> <h1>On<br> Social-Media</h1>
+            
+            <p>Scroll down</p> </div>
+      </div>
+      <div class="item">
+        <img class="discount" src="discount.jpg" alt="Chicago" style="width:100;" height="50rem"
+        > 
+        > <div class="carousel-caption" id-"text1">
+
+          <h2> Discount </h2> <h2>Buy One <br>Get one free</h2></br>
+          
+          <p>Scroll down</p> </div>
+    </div>
+
+  
+      
+        <div class="item">
+          <img src="IMG-20220222-WA0007_auto_x2_colored_toned_light_ai.jpg" alt="New york" style="width:100;" height="50rem"
+          > 
+          > <div class="carousel-caption" id-"text1">
+
+             <h1>Filled to the Brim<br> with Sugar</h1>
+            
+            <p>Scroll down</p> </div>
+      </div>
+      </div>
+  
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      
+      </a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next">
+       
+  
+        </a>
+       
+    </div>
+  </div>
+  </section>
+</div>
+<div class="menu1" id="menu1">
+ 
+</div>
+
+    </style>
+   </section> 
+   
+   <section
+    class="menu1" id="menu" >
+    <img class="meneu" src="home-1-slide-background.jpg">
+    <img class="title" src="pngfind.com-menu-png-116088.png">
+    </section>
+    <body style="background-color: beige;">
+      <div class="container" style="background-color: beige;">
+        <div class="menu">
+         
+          <div class="menu-group">
+            <div class="menu-item">
+              <img class="menu-item-image" src="IMG-20220222-WA0006_auto_x2_colored_toned_light_ai (2).jpg" alt="Bruschetta">
+              <div class="menu-item-text">
+                <h3 class="menu-item-heading">
+                  <span class="menu-item-name">Vanilla Waffles</span>
+                  <span class="menu-item-price">10 a piece</span>
+                </h3>
+                <p class="menu-item-description">
+                  Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
+                  congue eu mauris nec, pretium tincidunt nulla.
+                </p>
+              </div>
+            </div>
+            <div class="menu-item">
+              <img class="menu-item-image" src="-2147483648_-210681 (2).jpg" alt="Bruschetta">
+              <div class="menu-item-text">
+                <h3 class="menu-item-heading">
+                  <span class="menu-item-name">Reece's Peanut Butter cake with marshmellows</span>
+                  <span class="menu-item-price">250 full cake</span>
+                </h3>
+                <p class="menu-item-description">
+                  Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
+                  congue eu mauris nec, pretium tincidunt nulla.
+                </p>
+              </div>
+            </div>
+          </div>
+       
+          <div class="menu-group">
+            <div class="menu-item">
+              <img class="menu-item-image" src="IMG20220222WA0005autox2coloredtonedlightai400x400.jpg" alt="Bruschetta">
+              <div class="menu-item-text">
+                <h3 class="menu-item-heading">
+                  <span class="menu-item-name">Nutella Fudge Brownies</span>
+                  <span class="menu-item-price">20 a piece</span>
+                </h3>
+                <p class="menu-item-description">
+                  Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
+                  congue eu mauris nec, pretium tincidunt nulla.
+                </p>
+              </div>
+            </div>
+            <div class="menu-item">
+              <img class="menu-item-image" src="IMG-20220222-WA0004.jpg" alt="Bruschetta">
+              <div class="menu-item-text">
+                <h3 class="menu-item-heading">
+                  <span class="menu-item-name">Peanut Butter Oreo Brownies</span>
+                  <span class="menu-item-price">15 a piece</span>
+                </h3>
+                <p class="menu-item-description">
+                  Nunc efficitur felis vel mi efficitur, sed molestie sem scelerisque. Fusce orci risus,
+                  congue eu mauris nec, pretium tincidunt nulla.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a  class="viewmore" href="Untitled-1.html">Read More</a>
+    </body>
+      
+    </section>
+    <section>
+  
+      <img class="bgimg" id="order" src="istockphoto-1278430498-170667a.jpg" alt="">
+ 
+      <h1 class="title2">Ordering</h1>
+      <h1 class="title3">Order</h1>
+      <button class="orderfrommenu" onclick="location.href='#menu'" type="button">Order from Menu</button>
+      <button class="build" onclick="location.href='build.html'" type="button">Build your own Dessert</button>
+    </section>
+    <footer class="text-center text-lg-start bg-light text-muted "id=contact>
+      <!-- Section: Social media -->
+      <section
+        class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
+      >
+        <!-- Left -->
+        <div class="me-5 d-none d-lg-block">
+          <span>Get connected with us on social networks:</span>
+        </div>
+        <!-- Left -->
+    
+        <!-- Right -->
+        <div>
+          <a href="" class="me-4 text-reset">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="" class="me-4 text-reset">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="" class="me-4 text-reset">
+            <i class="fab fa-google"></i>
+          </a>
+          <a href="" class="me-4 text-reset">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="" class="me-4 text-reset">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="" class="me-4 text-reset">
+            <i class="fab fa-github"></i>
+          </a>
+        </div>
+        <!-- Right -->
+      </section>
+      <!-- Section: Social media -->
+    
+      <!-- Section: Links  -->
+      <section class="">
+        <div class="container text-center text-md-start mt-5">
+          <!-- Grid row -->
+          <div class="row mt-3">
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+              <!-- Content -->
+              <h6 class="text-uppercase fw-bold mb-4">
+                <i class="fas fa-gem me-3"></i>Soul treats
+              </h6>
+              <p>
+                Here you can use rows and columns to organize your footer content. Lorem ipsum
+                dolor sit amet, consectetur adipisicing elit.
+              </p>
+            </div>
+            <!-- Grid column -->
+    
+            <!-- Grid column -->
+           
+            <!-- Grid column -->
+    
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+              <!-- Links -->
+              <h6 class="text-uppercase fw-bold mb-4">
+                Useful links
+              </h6>
+              <p>
+                <a href="#!" class="text-reset">Pricing</a>
+              </p>
+              <p>
+                <a href="#!" class="text-reset">Settings</a>
+              </p>
+              <p>
+                <a href="#!" class="text-reset">Orders</a>
+              </p>
+              <p>
+                <a href="#!" class="text-reset">Help</a>
+              </p>
+            </div>
+            <!-- Grid column -->
+    
+            <!-- Grid column -->
+            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+              <!-- Links -->
+              <h6 class="text-uppercase fw-bold mb-4">
+                Contact
+              </h6>
+              
+              <p>
+                <i class="fas fa-gmail"></i>
+                info@example.com</p>
+                <a href="https://instagram.com/jannah_soultreats?utm_medium=copy_link"> <i class="fa fa-instagram">instagram</i></a>
+              </p>
+            
+              <p><i class="fas fa-print me-3"></i> +00000000000</p>
+            </div>
+            <!-- Grid column -->
+          </div>
+          <!-- Grid row -->
+        </div>
+      </section>
+      <!-- Section: Links  -->
+    
+      <!-- Copyright -->
+      <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+       
+      </div>
+      <!-- Copyright -->
+    </footer>
+    <!-- Footer -->
+   
+
+</nav>
+
+
+</html>
